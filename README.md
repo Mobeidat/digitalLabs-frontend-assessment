@@ -22,7 +22,7 @@ We want to convert the design you find on https://figma.fun/E1ikMl into interact
 
 The final work must show a page with slider experience as in the mock-up.
 
-The content of the slides items must be loaded from the assets data.json file dynamically.
+The content of the slides items must be loaded from the assets data.json file dynamically, file attached to this repo.
 
 
 #### Challenge 1 - Carousel component
