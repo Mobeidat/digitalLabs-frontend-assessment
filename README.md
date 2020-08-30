@@ -13,7 +13,7 @@ For this project, we would require you to use Tailwind CSS as a CSS Framework ht
 
 2. Every Coding Challenge should be one open Merge Request. At the end of finishing this project you will have one open Merge Request per Coding Challenge. If your code depends on other Merge Request you will point the merge request to the dependant branch instead of `master`.
 
-3. Then after finishing all challenges you need to share the link with moath.alobaidat@maf.ae
+3. Then after finishing all challenges you need to share the link with moath.alobaidat@maf.ae and Rama.AlBakri@maf.ae
 
 
 ### Challenges
@@ -63,4 +63,4 @@ The performance score in the Lighthouse dev tool should be as close to 100 as po
 
 ### Delivery of the project
 
-After you finish your project upload it to https://www.netlify.com/ or similar platforms, please share the URL and the github repository of the project with moath.alobaidat@maf.ae
+After you finish your project upload it to https://www.netlify.com/ or similar platforms, please share the URL and the github repository of the project with moath.alobaidat@maf.ae and Rama.AlBakri@maf.ae
