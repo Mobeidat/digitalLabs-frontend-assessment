@@ -18,7 +18,7 @@ For this project, we would require you to use Tailwind CSS as a CSS Framework ht
 
 ### Challenges
 
-We want to convert the design you find on https://figma.fun/E1ikMl into interactive experience. Pay attendtion to the details. 
+We want to convert the design you find on https://bit.ly/3jEC4j9 into interactive experience. Pay attendtion to the details. 
 
 The final work must show a page with slider experience as in the mock-up.
 
