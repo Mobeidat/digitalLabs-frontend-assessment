@@ -2,7 +2,7 @@
 
 If you are here, it means that you are thrilling to work at Majid Al Futtaim Digital Labs.
 
-The fowllowing excercises are to determine your Frontend coding knowledge and skills. We want to use real case scenarios instead of puzzels.
+The fowllowing excercises are to determine your Frontend coding knowledge and skills.
 
 For this project, we would require you to use Tailwind CSS as a CSS Framework https://tailwindcss.com/ and **VueJS** or ReactJS as a JS framework.
 
