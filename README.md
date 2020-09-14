@@ -18,19 +18,19 @@ For this project, we would require you to use Tailwind CSS as a CSS Framework ht
 
 ### Challenges
 
-We want to convert the design you find on https://bit.ly/3jEC4j9 into interactive and responsive experience. Pay attendtion to the details. 
+We want to convert the design you find on https://bit.ly/2GRnjes into interactive and responsive experience. Pay attendtion to the details. 
+
+Please check this prototype ( https://bit.ly/2DYmM9F ) for the transitions and animations.
 
 The final work must show a page with slider experience as in the mock-up.
 
-The content of the slides items must be loaded from the assets data.json file dynamically, file attached to this repo.
 
+#### Challenge 1 - Mock-up slicing
 
-#### Challenge 1 - Carousel component
+Design - https://bit.ly/2GRnjes
+Prototype - https://bit.ly/2DYmM9F
 
-We want to see a list of all motors into a swiper/carousel experience, when you click on the navigation arrows, you should be able to swipe between the item.
-
-When you click on one of the colors in the middle you should be swiped to the bike with that color.
-
+For the Villas Data, it will be ponus if you create a json file with that Data to consume it dynamically, like Villa location, Villa name and Villa image.
 
 #### Challenge 2 - PWA
 
