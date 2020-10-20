@@ -30,7 +30,7 @@ The final work must show a page with slider experience as in the mock-up.
 Design - https://bit.ly/2GRnjes
 Prototype - https://bit.ly/2DYmM9F
 
-For the Villas Data, it will be ponus if you create a json file with that Data to consume it dynamically, like Villa location, Villa name and Villa image.
+For the Villas Data, it will be bonus if you create a json file with that Data to consume it dynamically, like Villa location, Villa name and Villa image.
 
 #### Challenge 2 - PWA
 
