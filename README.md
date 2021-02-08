@@ -21,11 +21,11 @@ For this project, we would require you to use Tailwind CSS https://tailwindcss.c
 We want to convert the design you find on https://bit.ly/3oQnQ0M into interactive and responsive experience. Pay attendtion to the details. 
 
 
-#### Challenge 1 - Mock-up slicing
+#### Challenge 1 - Mock-up slicing & Data
 
 Design - https://bit.ly/3oQnQ0M
 
-For the Trips Data, it will be bonus if you create a json file with that Data to consume it dynamically, like trip name, trip description and trip images.
+For the Trips Data, create a json file with any dummy data to consume it dynamically in your application, like trip name, trip description and trip images.
 
 #### Challenge 2 - PWA
 
